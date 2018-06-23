@@ -30,7 +30,7 @@ def adding
 end
 
  
-shipping_manifest["oil paintings"]
+the_manifest["oil paintings"]
 
 
  # add 2 muskets to the shipping_manifest hash below
